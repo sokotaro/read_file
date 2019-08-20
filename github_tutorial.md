@@ -89,7 +89,7 @@ Open Terminal and run the following three commands
 >For this example, I will add two files: read_file.cpp & test_file.txt<br />
 >read_file.cpp reads in a text file, prints out its contents, and saves it to output.txt.<br />
 >test_file.txt is a sample text file to read in.<br />
->#####read_file.cpp
+>##### read_file.cpp
 >```c++
 >#include <fstream>
 >#include <iostream>
