@@ -50,7 +50,7 @@ Open Terminal and run the following three commands
 3. Install Git
 
 	>```bash
-	>/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+	> brew install git
 	>```
 
 
