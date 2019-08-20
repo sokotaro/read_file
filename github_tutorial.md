@@ -126,7 +126,7 @@ Open Terminal and run the following three commands
 >  return 0;
 >}
 >```
->#####test_file.txt
+>##### test_file.txt
 >```text
 >This is a test to read in the contents of this file, print it out, and save it to output.txt
 >
@@ -176,16 +176,16 @@ Open Terminal and run the following three commands
 >$ git config --global user.email "sokotaro3@gmail.com"
 >```
 >Now let's cache our credentials.  This command will vary based on your operating system<br />
->>#####Windows
+>>##### Windows
 >>```bash
 >>$ git config --global credential.helper wincred
 >>```
->#####Linux
+>##### Linux
 >```bash
 >$ git config --global credential.helper cache
 >$ git config --global credential.helper 'cache --timeout=3600'
 >```
->#####Mac
+>##### Mac
 >```bash
 >$ git config --global credential.helper osxkeychain
 >```
@@ -231,7 +231,7 @@ Open Terminal and run the following three commands
 #### Make Changes to Repository
 >At this point, you now have a local copy of the repo.  Let's make a change such as adding a readme file.<br />
 >Create a file called **README.md** and add some text.
->#####README.md
+>##### README.md
 >```
 >test read me file
 >```
